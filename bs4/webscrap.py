@@ -12,7 +12,7 @@ soup = BeautifulSoup(source, 'lxml')
 for details in soup.find_all('div', class_ ='js-profile-editable-area'):
 
     username = soup.find('div', class_='vcard-names-container py-3 js-sticky js-user-profile-sticky-fields')
-    print(details)
+    #print(details)
 
     user_git_link_name = username.find('span', class_='p-nickname vcard-username d-block')
     print("https://github.com/"+user_git_link_name.text) #prints the name in link
@@ -31,9 +31,8 @@ for details in soup.find_all('div', class_ ='js-profile-editable-area'):
 
 
 
-'''
 header = soup.find('div', class_='UnderlineNav user-profile-nav js-sticky top-0')
 
 count = header.find('nav')
 print(header)
-'''
+
