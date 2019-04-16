@@ -1,3 +1,6 @@
+'''Basics file of beautiful soup'''
+
+
 from bs4 import BeautifulSoup
 import requests
 

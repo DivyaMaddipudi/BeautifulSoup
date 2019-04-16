@@ -1,109 +1,74 @@
-Name,UserName,Link,Location,Count,Website
-Raja csp,rajacsp,https://github.com/rajacsp,"Toronto, Canada","
-            194
-          ",https://www.linkedin.com/in/rajacsp/
-Saikiran Sondarkar,sai-sondarkar,https://github.com/sai-sondarkar,Mumbai,"
-            40
-          ",@itm
-Hassan Djirdeh,djirdehh,https://github.com/djirdehh,"Toronto, ON","
-            15
-          ",@Shopify
-Viral Patel,viralpatel380,https://github.com/viralpatel380,"Vadodara, Gujarat, India","
-            32
-          ",@Travelaam-Holidays
-Daxeel Soni,daxeel,https://github.com/daxeel,"Ahmedabad, India","
-            54
-          ",https://daxeelsoni.com
-Hemanth Kumar,Blackindian,https://github.com/Blackindian,India,"
-            61
-          ",https://github.com/Blackindian
-Harjot Singh Oberai,harjot-oberai,https://github.com/harjot-oberai,"Chandigarh, India","
-            28
-          ",harjot-oberai.github.io
-Xin Wei,trekforever,https://github.com/trekforever,"San Francisco, CA","
-            16
-          ",https://twitter.com/trekforever
-Peter Nagy,nagypeterjob,https://github.com/nagypeterjob,Budapest,"
-            14
-          ",https://www.linkedin.com/in/peternagyjob/
-WeiminWang,aaxwaz,https://github.com/aaxwaz,Singapore,"
-            103
-          ",https://weiminwang.blog/
-Jagat Sastry P,jagatsastry,https://github.com/jagatsastry,San Francisco,"
-            24
-          ",t.co/j
-Joan Serrà,joansj,https://github.com/joansj,"Barcelona, Spain","
-            3
-          ",http://joanserra.weebly.com
-Susan Li,susanli2016,https://github.com/susanli2016,Toronto Canada,"
-            19
-          ",https://medium.com/@actsusanli
-Szilard Pafka,szilard,https://github.com/szilard,"Santa Monica, California","
-            51
-          ",https://www.linkedin.com/in/szilard
-Nick Brooks,nicapotato,https://github.com/nicapotato,United States,"
-            9
-          ",Sign in to view email
-Matt Murray,mattmurray,https://github.com/mattmurray,London,"
-            10
-          ",Sign in to view email
-Guillaume Genthial,guillaumegenthial,https://github.com/guillaumegenthial,"San Francisco, CA","
-            16
-          ",https://guillaumegenthial.github.io
-Mario,kmario23,https://github.com/kmario23,Saarland University,"
-            79
-          ",https://kmario23.github.com/
-Peter Nagy,nagypeterjob,https://github.com/nagypeterjob,Budapest,"
-            14
-          ",Sign in to view email
-Pranjal Srivastava,pranjal52,https://github.com/pranjal52,Varanasi,"
-            14
-          ",Sign in to view email
-Xianshun Chen,chen0040,https://github.com/chen0040,"Seattle, WA, USA","
-            231
-          ",Sign in to view email
-Yifeng He,Yifeng-He,https://github.com/Yifeng-He,"Toronto, canada","
-            28
-          ",http://papers-yhe.s3-website-us-east-1.amazonaws.com/
-Jakob Aungiers,jaungiers,https://github.com/jaungiers,"Bristol, UK","
-            12
-          ",http://www.Jakob-Aungiers.com
-Akash Singh,akash13singh,https://github.com/akash13singh,"Delhi, India","
-            43
-          ",Sign in to view email
-Kamalesh Bhambare,ksb214,https://github.com/ksb214,"Novi, MI, USA","
-            11
-          ",https://www.linkedin.com/in/kamaleshb/
-Berkay Ezdemir,brkyzdmr,https://github.com/brkyzdmr,"Kocaeli,Turkey","
-            28
-          ",berkayezdemir.com
-Joseph Owens,jowens32,https://github.com/jowens32,"Brentwood, TN","
-            4
-          ",https://www.linkedin.com/in/josephowens2016
-Kunal Verma,vkunal1996,https://github.com/vkunal1996,"Jalandhar, Punjab India","
-            69
-          ",https://www.facebook.com/vkunal1996
-Devdatta Supnekar,devdatta95,https://github.com/devdatta95,Mumbai,"
-            5
-          ",Sign in to view email
-riow1983,riow1983,https://github.com/riow1983,"Ageo city, Saitama, Japan","
-            23
-          ",Sign in to view email
-Shubham Kumar,shubhamkr96,https://github.com/shubhamkr96,"Pune, India","
-            2
-          ",Sign in to view email
-Mahamat Nour Ali Mai,Mahamatnour,https://github.com/Mahamatnour,Kuala Lumpur-Malaysia ,"
-            11
-          ",https://twitter.com/mahamatnoumai
-Sep,Thkasis,https://github.com/Thkasis,"Calgary, Canada","
-            3
-          ",https://medium.com/@sepehragape
-Manishanker Talusani,manishanker,https://github.com/manishanker,Bangalore,"
-            18
-          ",Sign in to view email
-Lohitaksh Trehan,LohitakshTrehan,https://github.com/LohitakshTrehan,Kurukshetra,"
-            34
-          ",Sign in to view email
-Anna Pastwa,annapastwa,https://github.com/annapastwa,"Brussels, BE","
-            3
-          ",linkedin.com/in/apastwa 
+Name,UserName,Link,Location,Count,Website
+,,,,,
+Raja csp,rajacsp,https://github.com/rajacsp,"Toronto, Canada",194,https://www.linkedin.com/in/rajacsp/
+,,,,,
+Saikiran Sondarkar,sai-sondarkar,https://github.com/sai-sondarkar,Mumbai,40,@itm
+,,,,,
+Hassan Djirdeh,djirdehh,https://github.com/djirdehh,"Toronto, ON",15,@Shopify
+,,,,,
+Viral Patel,viralpatel380,https://github.com/viralpatel380,"Vadodara, Gujarat, India",32,@Travelaam-Holidays
+,,,,,
+Daxeel Soni,daxeel,https://github.com/daxeel,"Ahmedabad, India",54,https://daxeelsoni.com
+,,,,,
+Hemanth Kumar,Blackindian,https://github.com/Blackindian,India,61,https://github.com/Blackindian
+,,,,,
+Harjot Singh Oberai,harjot-oberai,https://github.com/harjot-oberai,"Chandigarh, India",28,harjot-oberai.github.io
+,,,,,
+Xin Wei,trekforever,https://github.com/trekforever,"San Francisco, CA",16,https://twitter.com/trekforever
+,,,,,
+Peter Nagy,nagypeterjob,https://github.com/nagypeterjob,Budapest,14,https://www.linkedin.com/in/peternagyjob/
+,,,,,
+WeiminWang,aaxwaz,https://github.com/aaxwaz,Singapore,103,https://weiminwang.blog/
+,,,,,
+Jagat Sastry P,jagatsastry,https://github.com/jagatsastry,San Francisco,24,t.co/j
+,,,,,
+Joan Serrà,joansj,https://github.com/joansj,"Barcelona, Spain",3,http://joanserra.weebly.com
+,,,,,
+Susan Li,susanli2016,https://github.com/susanli2016,Toronto Canada,19,https://medium.com/@actsusanli
+,,,,,
+Szilard Pafka,szilard,https://github.com/szilard,"Santa Monica, California",51,https://www.linkedin.com/in/szilard
+,,,,,
+Nick Brooks,nicapotato,https://github.com/nicapotato,United States,9,Sign in to view email
+,,,,,
+Matt Murray,mattmurray,https://github.com/mattmurray,London,10,Sign in to view email
+,,,,,
+Guillaume Genthial,guillaumegenthial,https://github.com/guillaumegenthial,"San Francisco, CA",16,https://guillaumegenthial.github.io
+,,,,,
+Mario,kmario23,https://github.com/kmario23,Saarland University,79,https://kmario23.github.com/
+,,,,,
+Peter Nagy,nagypeterjob,https://github.com/nagypeterjob,Budapest,14,Sign in to view email
+,,,,,
+Pranjal Srivastava,pranjal52,https://github.com/pranjal52,Varanasi,14,Sign in to view email
+,,,,,
+Xianshun Chen,chen0040,https://github.com/chen0040,"Seattle, WA, USA",231,Sign in to view email
+,,,,,
+Yifeng He,Yifeng-He,https://github.com/Yifeng-He,"Toronto, canada",28,http://papers-yhe.s3-website-us-east-1.amazonaws.com/
+,,,,,
+Jakob Aungiers,jaungiers,https://github.com/jaungiers,"Bristol, UK",12,http://www.Jakob-Aungiers.com
+,,,,,
+Akash Singh,akash13singh,https://github.com/akash13singh,"Delhi, India",43,Sign in to view email
+,,,,,
+Kamalesh Bhambare,ksb214,https://github.com/ksb214,"Novi, MI, USA",11,https://www.linkedin.com/in/kamaleshb/
+,,,,,
+Berkay Ezdemir,brkyzdmr,https://github.com/brkyzdmr,"Kocaeli,Turkey",28,berkayezdemir.com
+,,,,,
+Joseph Owens,jowens32,https://github.com/jowens32,"Brentwood, TN",4,https://www.linkedin.com/in/josephowens2016
+,,,,,
+Kunal Verma,vkunal1996,https://github.com/vkunal1996,"Jalandhar, Punjab India",69,https://www.facebook.com/vkunal1996
+,,,,,
+Devdatta Supnekar,devdatta95,https://github.com/devdatta95,Mumbai,5,Sign in to view email
+,,,,,
+riow1983,riow1983,https://github.com/riow1983,"Ageo city, Saitama, Japan",23,Sign in to view email
+,,,,,
+Shubham Kumar,shubhamkr96,https://github.com/shubhamkr96,"Pune, India",2,Sign in to view email
+,,,,,
+Mahamat Nour Ali Mai,Mahamatnour,https://github.com/Mahamatnour,Kuala Lumpur-Malaysia ,11,https://twitter.com/mahamatnoumai
+,,,,,
+Sep,Thkasis,https://github.com/Thkasis,"Calgary, Canada",3,https://medium.com/@sepehragape
+,,,,,
+Manishanker Talusani,manishanker,https://github.com/manishanker,Bangalore,18,Sign in to view email
+,,,,,
+Lohitaksh Trehan,LohitakshTrehan,https://github.com/LohitakshTrehan,Kurukshetra,34,Sign in to view email
+,,,,,
+Anna Pastwa,annapastwa,https://github.com/annapastwa,"Brussels, BE",3,linkedin.com/in/apastwa 
+Anand Gaur,anandgaur22,https://github.com/anandgaur22,Noida,33,Sign in to view email

@@ -40,9 +40,9 @@ def insertOrUpdate(r_name, github_link):
     conn.close()'''
 
 
-f = csv.writer(open('final.csv', 'a'))
+f = csv.writer(open('final1.csv', 'a'))
 #f.writerow(['Name', 'UserName', 'Link', 'Location', 'Count','Website'])
-
+r = []
 
 
 for val in soup.findAll('div',{"class":"js-profile-editable-area"}):
@@ -50,10 +50,13 @@ for val in soup.findAll('div',{"class":"js-profile-editable-area"}):
         location = loc.text
         print(location)
         
-        
-        website_link = val.findAll('a')[0]
-        website = website_link.text
-        print(website)
+        try:
+
+                website_link = val.findAll('a')[0]
+                website = website_link.text
+                print(website)
+        except:
+                print("None")
 
 
 for name in soup.findAll('div', {"class":"vcard-names-container py-3 js-sticky js-user-profile-sticky-fields"}):
@@ -79,10 +82,11 @@ for repo in soup.findAll('div',{"class":"UnderlineNav user-profile-nav js-sticky
 
         count = rep_link.find('span',{"class":"Counter"})
 
-        no_of_repos = count.text
+        no_of_repos = count.text.strip()
         
         print(no_of_repos)
 
-
-f.writerow([r_name, user_name, f_link, location, no_of_repos, website])
+lis = [r_name, user_name, f_link, location, no_of_repos, website]
+r.append(lis)
+f.writerows(r)
   
